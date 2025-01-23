@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m4skdev (Mask)
 - 👀 I’m interested in breaking production
-- 🌱 I’m currently learning OCaml
+- 🌱 I’m currently learning a bunch of crap
 - 📫 How to reach me -> maskdotdev@gmail.com
 - ⚡ Fun fact: I once wrestle a squirell, the squirell won.
 

@@ -2,7 +2,6 @@
 - 👀 I’m interested in breaking production
 - 🌱 I’m currently learning a bunch of crap
 - 📫 How to reach me -> maskdotdev@gmail.com
-- ⚡ Fun fact: I once wrestle a squirell, the squirell won.
 
 <!---
 m4skdev/m4skdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

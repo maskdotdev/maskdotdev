@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m4skdev (Mask)
+- 👋 Hi, I’m Mask
 - 👀 I’m interested in breaking production
 - 🌱 I’m currently learning a bunch of crap
 - 📫 How to reach me -> maskdotdev@gmail.com

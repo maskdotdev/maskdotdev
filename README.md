@@ -2,7 +2,7 @@
 
 I build developer tools, code intelligence systems, local-first apps, and agent workflows. Most of my recent work sits around Rust, TypeScript, Python, code review automation, graph storage, and AI-assisted engineering tools.
 
-## Selected Projects
+## Projects
 
 - [KiteDB](https://github.com/mask-software/kitedb) - embedded graph database with WAL, MVCC, mmap CSR snapshots, pathfinding, and TypeScript/Bun bindings.
 - [ACI](https://github.com/maskdotdev/aci) - Rust-first codebase indexer for symbols, dependencies, callers, references, impact queries, and graph export.
